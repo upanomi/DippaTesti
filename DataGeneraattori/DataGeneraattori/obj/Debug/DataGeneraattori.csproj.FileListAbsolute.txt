@@ -1,0 +1,12 @@
+C:\Users\ollih\Google Drive\Koulu\Dippa\pistenet demo\GeneraattoriC#\DataGeneraattori\DataGeneraattori\bin\Debug\DataGeneraattori.exe.config
+C:\Users\ollih\Google Drive\Koulu\Dippa\pistenet demo\GeneraattoriC#\DataGeneraattori\DataGeneraattori\bin\Debug\DataGeneraattori.exe
+C:\Users\ollih\Google Drive\Koulu\Dippa\pistenet demo\GeneraattoriC#\DataGeneraattori\DataGeneraattori\bin\Debug\DataGeneraattori.pdb
+C:\Users\ollih\Google Drive\Koulu\Dippa\pistenet demo\GeneraattoriC#\DataGeneraattori\DataGeneraattori\obj\Debug\DataGeneraattori.csprojResolveAssemblyReference.cache
+C:\Users\ollih\Google Drive\Koulu\Dippa\pistenet demo\GeneraattoriC#\DataGeneraattori\DataGeneraattori\obj\Debug\DataGeneraattori.exe
+C:\Users\ollih\Google Drive\Koulu\Dippa\pistenet demo\GeneraattoriC#\DataGeneraattori\DataGeneraattori\obj\Debug\DataGeneraattori.pdb
+C:\src\GeneraattoriC#\DataGeneraattori\DataGeneraattori\bin\Debug\DataGeneraattori.exe.config
+C:\src\GeneraattoriC#\DataGeneraattori\DataGeneraattori\bin\Debug\DataGeneraattori.exe
+C:\src\GeneraattoriC#\DataGeneraattori\DataGeneraattori\bin\Debug\DataGeneraattori.pdb
+C:\src\GeneraattoriC#\DataGeneraattori\DataGeneraattori\obj\Debug\DataGeneraattori.exe
+C:\src\GeneraattoriC#\DataGeneraattori\DataGeneraattori\obj\Debug\DataGeneraattori.pdb
+C:\src\GeneraattoriC#\DataGeneraattori\DataGeneraattori\obj\Debug\DataGeneraattori.csprojResolveAssemblyReference.cache
